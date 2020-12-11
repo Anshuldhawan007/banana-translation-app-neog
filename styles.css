@@ -1,0 +1,64 @@
+
+
+.center {
+    max-width: 600px;
+    margin:auto;
+    /* padding-left: 4rem;
+    padding-right: 4rem; */
+}
+
+textarea {
+    height:100px;
+    width:400px;
+    margin:auto;
+    display: block;
+    padding: 1rem 1rem;
+    
+    
+}
+
+.hero-heading {
+    text-align: center;
+}
+h2 {
+    
+    margin: 2rem 3rem;
+    text-align: center;
+}
+#btn-translate {
+    padding: 2rem 2rem;
+    /* margin:2rem 2rem; */
+    display: block;
+    max-width: 600px;
+    margin:auto;
+    margin-top: 10vh;
+    background-color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+    
+
+}
+
+body,hr {
+    margin:0px;
+}
+#hero {
+    text-align: center;
+    display: block;
+}
+
+
+#output-box {
+    border: 1px solid black;
+    height: 10vh;
+    padding: 1rem 1rem;
+    background-color: whitesmoke;
+    max-width: 600px;
+    margin:auto;
+   
+}
+
+.footer {
+    padding: 5rem;
+    background-color: blue;
+}
